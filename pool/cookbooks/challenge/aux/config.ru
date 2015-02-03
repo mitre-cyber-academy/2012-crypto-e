@@ -1,0 +1,4 @@
+$: << "."
+
+require 'myapp'
+run Application
